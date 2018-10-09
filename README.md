@@ -1,2 +1,3 @@
-# C-C-movie-
-movie ticketing system
+# C /C++ PROJECT
+QUIZING GAME
+rondonmly questions are asked and four options are given out of which one in=s  correct.
